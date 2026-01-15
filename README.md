@@ -211,7 +211,7 @@ A short walkthrough showing how the **Product Funnel & Monetization Dashboard** 
 - Glossary and metric explanations
 
 ▶️ **Watch the dashboard demo video:**  
-[Click here to view the video walkthrough](LINK_WILL_GO_HERE)
+[Click here to view the video walkthrough](https://github.com/Shohag-DataAnalyst/product-funnel-conversion-analysis/releases/tag/v1.0.0)
 
 ---
 
