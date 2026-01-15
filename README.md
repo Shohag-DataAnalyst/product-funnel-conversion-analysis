@@ -218,16 +218,16 @@ A short walkthrough showing how the **Product Funnel & Monetization Dashboard** 
 ## 📸 Dashboard Screenshots
 
 ### Funnel Overview
-![Overview](screenshots/overview.png)
+![Funnel Overview](Screenshots/funnel_overview.png)
 
 ### Revenue & Monetization
-![Demand Forecast](screenshots/demand_forecast.png)
+![Revenue & Monetization](Screenshots/monetization_overview.png)
 
 ### Customer Behavior
-![SKU Control](screenshots/sku_control.png)
+![Customer Behavior](Screenshots/user_behavior.png)
 
 ### Glossary & Metric Definitions
-![Glossary](screenshots/glossary.png)
+![Glossary](Screenshots/glossary.png)
 
 ---
 
