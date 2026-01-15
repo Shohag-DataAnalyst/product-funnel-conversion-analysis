@@ -210,7 +210,7 @@ A short walkthrough showing how the **Product Funnel & Monetization Dashboard** 
 - Customer behavior comparison (Paid vs Free)
 - Glossary and metric explanations
 
-▶️ **Watch the dashboard demo video:**  
+▶️ **Watch the dashboard demo video (Release):**
 [Click here to view the video walkthrough](https://github.com/Shohag-DataAnalyst/product-funnel-conversion-analysis/releases/download/v1.0.0/Data.Project.mp4)
 
 ---
