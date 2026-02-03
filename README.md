@@ -15,7 +15,7 @@ End-to-end **Product Funnel, Conversion, and Monetization** analysis built using
 
 ## 🔗 Live Interactive Dashboard
 👉 **View the live Power BI dashboard (no login required):**  
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiY2E2YWEzYjctYjE2YS00ZTc1LTlmMDAtMjVjZDBhYTA5YTI2IiwidCI6IjY5MDRhYjJkLTlhZjQtNDNlOS05ODlmLTY1Mzg1NWEyODcyYSIsImMiOjEwfQ%3D%3D)
+👉 https://datalel.com
 
 ---
 
